@@ -1,0 +1,1033 @@
+@media (min-width: 279px) and (max-width: 319px) {
+/* css start	*/
+
+	.header .navbar-expand-lg .navbar-nav .nav-item .active {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	.header .navbar-expand-lg .navbar-nav .nav-link{
+		padding: 0px;
+	}
+		.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	
+	.header .banner .inner-banner h1{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.header .banner .inner-banner p {
+  
+		  font-size: 7px;
+		  line-height: 17px;
+}
+	.header .banner .inner-banner h5 {
+ 
+		  font-size: 12px;
+		  line-height: 22px;
+		  }
+	.header .banner{
+		padding: 20px 0px;
+	}
+	.header .banner .inner-banner .boton {
+		  width: 100%;
+		  margin: 50px 0px 0px;
+		  padding: 0px 0px 10px;
+		}
+	.header .banner .inner-banner a {
+		  font-size: 11px;
+		  line-height: 21px;
+		}
+
+		.header .banner .inner-banner .btn-primary{
+			padding: 6px 7px;
+		}
+		.header .banner .inner-banner .btn-info{
+			padding: 6px 7px;
+		}
+		.feature{
+			padding: 10px 0px;
+		}
+		.feature .inner-feature{
+			padding: 30px 0px;
+		}
+		.feature .inner-feature h4{
+			font-size: 16px;
+			line-height: ;
+			margin: 15px 0px 10px;
+		}
+		.feature .inner-feature p{
+			font-size: 12px;
+			line-height: 22px;
+		}
+		
+		.about{
+			padding: 20px 0px;
+		}
+		.about .up-side{
+			padding: 0px;
+		}
+		.about .inner-about p{
+			font-size: 7px;
+			line-height: 17px;
+		}
+		.about .inner-about ul li a{
+			font-size: 11px;
+			line-height: 21px;
+			text-decoration: none;
+
+		}
+		
+		.short{
+			padding: 0px !important;
+
+		}
+		.up-side {
+			  width: 100%;
+			  padding: 20px 0px 10px;
+			}
+			.up-side h1{
+				font-size: 20px;
+				line-height: 30px;
+
+				padding: 0px;
+			}
+			.up-side h5{
+				font-size: 11px;
+				line-height: 21px;
+				margin: 0px;
+			}
+
+		.short p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.testimonial{
+			padding: 20px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client {
+		  width: 40px;
+		  height: 40px;
+		  margin: 13px 0px 0px;
+		}
+		.testimonial .up-side {
+ 
+			  	padding: 0px 0px 35px;
+		}
+		.testimonial .owl-carousel .item h4{
+			font-size: 13px;
+			line-height: 23px;
+			margin: 0px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client-info p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.testimonial .owl-carousel .item .client-info h5 {
+			font-size: 12px;
+			line-height: 22px;
+		}
+		.testimonial .owl-carousel .item .client-info {
+		 
+		  padding: 0px 0px 30px;
+		}
+		.eye{
+			padding: 20px 0px;
+		}
+		.eye h4{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye span{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye .btn-info{
+			font-size: 11px;
+			padding: 6px 7px;
+		}
+		.eye .btn-primary{
+			font-size: 11px;
+			padding: 6px 7px;
+			
+		}
+		.eye .boton{
+			text-align: left;
+			padding: 15px 0px 0px;
+		}
+		.eye .boton .btn {
+			  margin: 0px 10px 0px 0px;
+			}
+		.pricing{
+			padding: 20px 0px;
+		}
+		.pricing .price-box{
+			margin: 0px 0px 25px;
+		}
+		.pricing .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact{
+			padding: 20px 0px;
+		}
+		.contact .info{
+			padding: 20px 0px;
+		}
+		.contact .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact .main-form .btn-primary{
+			text-decoration: none;
+
+			font-size: 11px;
+			padding: 6px 7px;
+		}
+		
+
+
+
+
+		.footer .fa{
+			font-size: 15px;
+		}
+		.footer p{
+			font-size: 12px;
+			padding: 0px 0px 20px;
+		}
+		.footer ul{
+			padding: 15px 0px 0px;
+		}
+
+
+/* css end	*/			
+}
+@media (min-width: 481px) and (max-width: 767px) {
+/* css start	*/
+		.header .navbar-expand-lg .navbar-nav .nav-item .active {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	.header .navbar-expand-lg .navbar-nav .nav-link{
+		padding: 0px;
+	}
+		.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	
+	.header .banner .inner-banner h1{
+		font-size: 33px;
+		line-height: 43px;
+	}
+	.header .banner .inner-banner p {
+  
+		  font-size: 14px;
+		  line-height: 24px;
+		  text-align: justify;
+}
+	.header .banner .inner-banner h5 {
+ 
+		  font-size: 15px;
+		  line-height: 25px;
+		  }
+	.header .banner{
+		padding: 20px 0px;
+	}
+	.header .banner .inner-banner .boton {
+		  width: 100%;
+		  margin: 50px 0px 0px;
+		  padding: 0px 0px 10px;
+		}
+	.header .banner .inner-banner a {
+		  font-size: 13px;
+		  line-height: 23px;
+		}
+
+		.header .banner .inner-banner .btn-primary{
+			padding: 9px 13px;
+		}
+		.header .banner .inner-banner .btn-info{
+			padding: 9px 13px;
+		}
+		.feature{
+			padding: 10px 0px;
+		}
+		.feature .inner-feature{
+			padding: 30px 0px;
+		}
+		.feature .inner-feature h4{
+			font-size: 17px;
+			margin: 15px 0px 10px;
+		}
+		.feature .inner-feature p{
+			font-size: 14px;
+		}
+		.up-side h1{
+			font-size: 29px;
+			line-height: 39px;
+
+		}
+		.about{
+			padding: 20px 0px;
+		}
+		.about .up-side{
+			padding: 0px;
+		}
+		.about .inner-about p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.about .inner-about ul li a{
+			font-size: 14px;
+			line-height: 24px;
+			text-decoration: none;
+
+		}
+		
+		.short{
+			padding: 0px !important;
+
+		}
+		.up-side {
+			  width: 100%;
+			  padding: 20px 0px 10px;
+			}
+			.up-side h1{
+				padding: 0px;
+			}
+			.up-side h5{
+				margin: 0px;
+			}
+			.up-side h5{
+				font-size: 14px;
+				line-height: 24px;
+			}
+			.up-side h1{
+				font-size: 30px;
+				line-height: 40px;
+			}
+		.short p{
+			font-size: 13px;
+			line-height: 23px;
+			text-align: justify;
+		}
+		.testimonial{
+			padding: 20px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client {
+		  width: 40px;
+		  height: 40px;
+		  margin: 13px 0px 0px;
+		}
+		.testimonial .up-side {
+ 
+			  	padding: 0px 0px 35px;
+		}
+		.testimonial .owl-carousel .item h4{
+			font-size: 13px;
+			line-height: 23px;
+			margin: 0px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client-info p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.testimonial .owl-carousel .item .client-info h5 {
+			font-size: 12px;
+			line-height: 22px;
+		}
+		.testimonial .owl-carousel .item .client-info {
+		 
+		  padding: 0px 0px 30px;
+		}
+		.eye{
+			padding: 20px 0px;
+		}
+		.eye h4{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye span{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye .btn-info{
+			font-size: 13px;
+			padding: 9px 11px;
+		}
+		.eye .btn-primary{
+			font-size: 13px;
+			padding: 9px 11px;
+		}
+		.eye .boton{
+			text-align: left;
+			padding: 15px 0px 0px;
+		}
+		.pricing{
+			padding: 20px 0px;
+		}
+		.pricing .price-box{
+			margin: 0px 0px 25px;
+		}
+		.pricing .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact{
+			padding: 20px 0px;
+		}
+		.contact .info{
+			padding: 20px 0px;
+		}
+		.contact .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact .main-form .btn-primary{
+			text-decoration: none;
+
+			font-size: 11px;
+			padding: 8px 29px;
+		}
+		
+
+
+
+
+		.footer .fa{
+			font-size: 15px;
+		}
+		.footer p{
+			font-size: 12px;
+			padding: 0px 0px 20px;
+		}
+		.footer ul{
+			padding: 15px 0px 0px;
+		}
+
+
+
+/* css end	*/		
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+/* css start	*/
+		.header .navbar-expand-lg .navbar-nav .nav-item .active {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	.header .navbar-expand-lg .navbar-nav .nav-link{
+		padding: 0px;
+	}
+		.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	
+	.header .banner .inner-banner h1{
+		font-size: 29px;
+		line-height: 39px;
+	}
+	.header .banner .inner-banner p {
+  
+		  font-size: 11px;
+		  line-height: 21px;
+}
+	.header .banner .inner-banner h5 {
+ 
+		  font-size: 14px;
+		  line-height: 24px;
+		  }
+	.header .banner{
+		padding: 20px 0px;
+	}
+	.header .banner .inner-banner .boton {
+		  width: 100%;
+		  margin: 50px 0px 0px;
+		  padding: 0px 0px 10px;
+		}
+	.header .banner .inner-banner a {
+		  font-size: 13px;
+		  line-height: 23px;
+		}
+
+		.header .banner .inner-banner .btn-primary{
+			padding: 9px 13px;
+		}
+		.header .banner .inner-banner .btn-info{
+			padding: 9px 13px;
+		}
+		.feature{
+			padding: 10px 0px;
+		}
+		.feature .inner-feature{
+			padding: 30px 0px;
+		}
+		.feature .inner-feature h4{
+			font-size: 17px;
+			margin: 15px 0px 10px;
+		}
+		.feature .inner-feature p{
+			font-size: 14px;
+		}
+		.up-side h1{
+			font-size: 29px;
+			line-height: 39px;
+
+		}
+		.about{
+			padding: 20px 0px;
+		}
+		.about .up-side{
+			padding: 0px;
+		}
+		.about .inner-about p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.about .inner-about ul li a{
+			font-size: 14px;
+			line-height: 24px;
+			text-decoration: none;
+
+		}
+		
+		.short{
+			padding: 0px !important;
+
+		}
+		.up-side {
+			  width: 100%;
+			  padding: 20px 0px 10px;
+			}
+			.up-side h1{
+				padding: 0px;
+			}
+			.up-side h5{
+				margin: 0px;
+			}
+
+		.short p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.testimonial{
+			padding: 20px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client {
+		  width: 40px;
+		  height: 40px;
+		  margin: 13px 0px 0px;
+		}
+		.testimonial .up-side {
+ 
+			  	padding: 0px 0px 35px;
+		}
+		.testimonial .owl-carousel .item h4{
+			font-size: 13px;
+			line-height: 23px;
+			margin: 0px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client-info p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.testimonial .owl-carousel .item .client-info h5 {
+			font-size: 12px;
+			line-height: 22px;
+		}
+		.testimonial .owl-carousel .item .client-info {
+		 
+		  padding: 0px 0px 30px;
+		}
+		.eye{
+			padding: 20px 0px;
+		}
+		.eye h4{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye span{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye .btn-info{
+			font-size: 13px;
+			padding: 9px 11px;
+		}
+		.eye .btn-primary{
+			font-size: 13px;
+			padding: 9px 11px;
+		}
+		.eye .boton{
+			text-align: left;
+			padding: 15px 0px 0px;
+		}
+		.pricing{
+			padding: 20px 0px;
+		}
+		.pricing .price-box{
+			margin: 0px 0px 25px;
+		}
+		.pricing .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact{
+			padding: 20px 0px;
+		}
+		.contact .info{
+			padding: 20px 0px;
+		}
+		.contact .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact .main-form .btn-primary{
+			text-decoration: none;
+
+			font-size: 11px;
+			padding: 8px 29px;
+		}
+		
+
+
+
+
+		.footer .fa{
+			font-size: 15px;
+		}
+		.footer p{
+			font-size: 12px;
+			padding: 0px 0px 20px;
+		}
+		.footer ul{
+			padding: 15px 0px 0px;
+		}
+
+
+/* css end	*/			
+}
+@media (min-width: 481px) and (max-width: 767px) {
+/* css start	*/
+		.header .navbar-expand-lg .navbar-nav .nav-item .active {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	.header .navbar-expand-lg .navbar-nav .nav-link{
+		padding: 0px;
+	}
+		.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	
+	.header .banner .inner-banner h1{
+		font-size: 33px;
+		line-height: 43px;
+	}
+	.header .banner .inner-banner p {
+  
+		  font-size: 14px;
+		  line-height: 24px;
+		  text-align: justify;
+}
+	.header .banner .inner-banner h5 {
+ 
+		  font-size: 15px;
+		  line-height: 25px;
+		  }
+	.header .banner{
+		padding: 20px 0px;
+	}
+	.header .banner .inner-banner .boton {
+		  width: 100%;
+		  margin: 50px 0px 0px;
+		  padding: 0px 0px 10px;
+		}
+	.header .banner .inner-banner a {
+		  font-size: 13px;
+		  line-height: 23px;
+		}
+
+		.header .banner .inner-banner .btn-primary{
+			padding: 9px 13px;
+		}
+		.header .banner .inner-banner .btn-info{
+			padding: 9px 13px;
+		}
+		.feature{
+			padding: 10px 0px;
+		}
+		.feature .inner-feature{
+			padding: 30px 0px;
+		}
+		.feature .inner-feature h4{
+			font-size: 17px;
+			margin: 15px 0px 10px;
+		}
+		.feature .inner-feature p{
+			font-size: 14px;
+		}
+		.up-side h1{
+			font-size: 29px;
+			line-height: 39px;
+
+		}
+		.about{
+			padding: 20px 0px;
+		}
+		.about .up-side{
+			padding: 0px;
+		}
+		.about .inner-about p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.about .inner-about ul li a{
+			font-size: 14px;
+			line-height: 24px;
+			text-decoration: none;
+
+		}
+		
+		.short{
+			padding: 0px !important;
+
+		}
+		.up-side {
+			  width: 100%;
+			  padding: 20px 0px 10px;
+			}
+			.up-side h1{
+				padding: 0px;
+			}
+			.up-side h5{
+				margin: 0px;
+			}
+			.up-side h5{
+				font-size: 14px;
+				line-height: 24px;
+			}
+			.up-side h1{
+				font-size: 30px;
+				line-height: 40px;
+			}
+		.short p{
+			font-size: 13px;
+			line-height: 23px;
+			text-align: justify;
+		}
+		.testimonial{
+			padding: 20px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client {
+		  width: 40px;
+		  height: 40px;
+		  margin: 13px 0px 0px;
+		}
+		.testimonial .up-side {
+ 
+			  	padding: 0px 0px 35px;
+		}
+		.testimonial .owl-carousel .item h4{
+			font-size: 13px;
+			line-height: 23px;
+			margin: 0px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client-info p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.testimonial .owl-carousel .item .client-info h5 {
+			font-size: 12px;
+			line-height: 22px;
+		}
+		.testimonial .owl-carousel .item .client-info {
+		 
+		  padding: 0px 0px 30px;
+		}
+		.eye{
+			padding: 20px 0px;
+		}
+		.eye h4{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye span{
+			font-size: 26px;
+			line-height: 36px;
+		}
+		.eye .btn-info{
+			font-size: 13px;
+			padding: 9px 11px;
+		}
+		.eye .btn-primary{
+			font-size: 13px;
+			padding: 9px 11px;
+		}
+		.eye .boton{
+			text-align: left;
+			padding: 15px 0px 0px;
+		}
+		.pricing{
+			padding: 20px 0px;
+		}
+		.pricing .price-box{
+			margin: 0px 0px 25px;
+		}
+		.pricing .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact{
+			padding: 20px 0px;
+		}
+		.contact .info{
+			padding: 20px 0px;
+		}
+		.contact .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact .main-form .btn-primary{
+			text-decoration: none;
+
+			font-size: 11px;
+			padding: 8px 29px;
+		}
+		
+
+
+
+
+		.footer .fa{
+			font-size: 15px;
+		}
+		.footer p{
+			font-size: 12px;
+			padding: 0px 0px 20px;
+		}
+		.footer ul{
+			padding: 15px 0px 0px;
+		}
+
+
+
+/* css end	*/			
+}
+@media (min-width: 767px) and (max-width: 1024px) {
+/* css start	*/
+
+	.header .navbar-expand-lg .navbar-nav .nav-item .active {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	.header .navbar-expand-lg .navbar-nav .nav-link{
+		padding: 0px;
+	}
+		.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+	  background: url("../image/bar.png") left bottom no-repeat;
+	    background-size: auto;
+	  background-size: auto;
+	}
+	
+	.header .banner .inner-banner h1{
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.header .banner .inner-banner p {
+  
+		  font-size: 15px;
+		  line-height: 25px;
+		  text-align: justify;
+}
+	.header .banner .inner-banner h5 {
+ 
+		  font-size: 16px;
+		  line-height: 26px;
+		  }
+	.header .banner{
+		padding: 20px 0px;
+	}
+	.header .banner .inner-banner .boton {
+		  width: 100%;
+		  margin: 50px 0px 0px;
+		  padding: 0px 0px 10px;
+		}
+	.header .banner .inner-banner a {
+		  font-size: 14px;
+		  line-height: 24px;
+		}
+
+		.header .banner .inner-banner .btn-primary{
+			padding: 9px 13px;
+		}
+		.header .banner .inner-banner .btn-info{
+			padding: 9px 13px;
+		}
+		.feature{
+			padding: 10px 0px;
+		}
+		.feature .inner-feature{
+			padding: 30px 0px;
+		}
+		.feature .inner-feature h4{
+			font-size: 18px;
+			margin: 15px 0px 10px;
+		}
+		.feature .inner-feature p{
+			font-size: 15px;
+		}
+		.up-side h1{
+			font-size: 30px;
+			line-height: 40px;
+
+		}
+		.about{
+			padding: 20px 0px;
+		}
+		.about .up-side{
+			padding: 0px;
+		}
+		.about .inner-about p{
+			font-size: 11px;
+			line-height: 21px;
+		}
+		.about .inner-about ul li a{
+			font-size: 14px;
+			line-height: 24px;
+			text-decoration: none;
+
+		}
+		
+		.short{
+			padding: 0px !important;
+
+		}
+		.up-side {
+			  width: 100%;
+			  padding: 20px 0px 10px;
+			}
+			.up-side h1{
+				padding: 0px;
+			}
+			.up-side h5{
+				margin: 0px;
+			}
+			.up-side h5{
+				font-size: 15px;
+				line-height: 24px;
+			}
+			.up-side h1{
+				font-size: 31px;
+				line-height: 40px;
+			}
+		.short p{
+			font-size: 14px;
+			line-height: 24px;
+			text-align: justify;
+		}
+		.testimonial{
+			padding: 20px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client {
+		  width: 40px;
+		  height: 40px;
+		  margin: 13px 0px 0px;
+		}
+		.testimonial .up-side {
+ 
+			  	padding: 0px 0px 35px;
+		}
+		.testimonial .owl-carousel .item h4{
+			font-size: 14px;
+			line-height: 23px;
+			margin: 0px 0px 10px;
+		}
+		.testimonial .owl-carousel .item .client-info p{
+			font-size: 12px;
+			line-height: 22px;
+		}
+		.testimonial .owl-carousel .item .client-info h5 {
+			font-size: 13px;
+			line-height: 23px;
+		}
+		.testimonial .owl-carousel .item .client-info {
+		 
+		  padding: 0px 0px 30px;
+		}
+		.eye{
+			padding: 20px 0px;
+		}
+		.eye h4{
+			font-size: 27px;
+			line-height: 37px;
+		}
+		.eye span{
+			font-size: 27px;
+			line-height: 36px;
+		}
+		.eye .btn-info{
+			font-size: 14px;
+			padding: 9px 11px;
+		}
+		.eye .btn-primary{
+			font-size: 14px;
+			padding: 9px 11px;
+		}
+		.eye .boton{
+			text-align: left;
+			padding: 15px 0px 0px;
+		}
+		.pricing{
+			padding: 20px 0px;
+		}
+		.pricing .price-box{
+			margin: 0px 0px 25px;
+		}
+		.pricing .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact{
+			padding: 20px 0px;
+		}
+		.contact .info{
+			padding: 20px 0px;
+		}
+		.contact .up-side{
+			padding: 20px 0px 30px;
+		}
+		.contact .main-form .btn-primary{
+			text-decoration: none;
+
+			font-size: 12px;
+			padding: 8px 29px;
+		}
+		
+
+
+
+
+		.footer .fa{
+			font-size: 16px;
+		}
+		.footer p{
+			font-size: 13px;
+			padding: 0px 0px 20px;
+		}
+		.footer ul{
+			padding: 15px 0px 0px;
+		}
+
+
+
+
+
+
+/* css end	*/			
+}
